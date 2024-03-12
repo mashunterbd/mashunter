@@ -113,6 +113,18 @@ const CONFIG = {
       body: 'Certification through examination administered by Team Matrix',
       year: 'August 2023',
       link: 'https://drive.google.com/file/d/1b5ehHZJfdEkXbrUvPZSZnglkRsELpjhi/view?usp=drivesdk',
+      },
+    { 
+    name: 'Cyber Security Fundamentals in Bangla',
+      body: 'Certification taught by Sakib Haque Zisan on Udemy.',
+      year: 'March 2024',
+      link: 'https://www.udemy.com/certificate/UC-03879d18-dcb9-44f5-82b7-7e33d60f61f7/',
+      },
+    { 
+    name: 'Web Hacking for Beginners ',
+      body: 'Certification taught by Juravlea Nicolae on Udemy.',
+      year: 'March 2024',
+      link: 'https://www.udemy.com/certificate/UC-bb9237df-e603-466a-aa31-839dbabe8c6a/',
       }
   ],
   educations: [

@@ -52,16 +52,16 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Md. Abu Bakar Siddik ',
-    description: '',
+    title: 'Portfolio of MAS HUNTER ',
+    description: 'This is my Personal Portfolio site.',
     imageURL: '',
   },
   social: {
     linkedin: 'mashunter',
     twitter: 'mashunterbd',
     mastodon: '',
-    facebook: 'masshuvo.fb',
-    instagram: 'masshuvo.ins',
+    facebook: 'mashunter.fb',
+    instagram: 'mashunter.ins',
     youtube: 'mashunter', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
@@ -70,9 +70,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: 'mashunterbd',
-    website: 'https://www.mashunter.xyz',
+    website: 'mashunterbd.github.io/mashunter',
     phone: '',
-    email: 'mdabubakar.mail.bd@gmail.com',
+    email: 'pentester.mas@gmail.com',
   },
   resume: {
     fileUrl:
